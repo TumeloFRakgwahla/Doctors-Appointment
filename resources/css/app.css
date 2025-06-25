@@ -9,3 +9,15 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.main-content {
+  min-height: 100vh;
+  background-color: #ffffff;
+  margin-top: 20px;
+  box-shadow: inset 0 0 10px #e9ecef;
+}
