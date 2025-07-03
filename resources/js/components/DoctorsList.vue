@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="Doctorslist-container">
     <h1>Our Doctors</h1>
     <p>Meet the doctors available for appointments.</p>
     <!-- You can later loop through a doctors list from API -->
