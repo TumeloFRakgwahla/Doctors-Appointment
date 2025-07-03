@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="About-container">
     <h1>About MediConnect</h1>
     <p>
       MediConnect is a simple and smart appointment booking platform for patients and doctors.

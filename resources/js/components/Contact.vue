@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="Contact-container">
     <h1>Contact Us</h1>
     <p>If you have any questions or issues, please get in touch.</p>
 
