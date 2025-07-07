@@ -23,7 +23,9 @@
               <router-link class="nav-link" :to="'/contact'" :class="{ active: isActive('/contact') }">Contact</router-link>
             </li>
           </ul>
-          <button><router-link to="/register">Register</router-link></button>
+          <router-link to="/register">
+            <button>Register</button>
+          </router-link>
         </div>
       </nav>
 
